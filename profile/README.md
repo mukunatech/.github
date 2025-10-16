@@ -1,16 +1,46 @@
+<div align="center">
+
 # Bienvenue sur le GitHub de Mukuna Tech 👋
 
-### ✨ Moderniser le secteur juridique, une ligne de code à la fois.
+<a href="https://mukunatech.com/">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&color=36BCF7&center=true&vCenter=true&width=550&lines=Modernisation+du+secteur+juridique;Le+sommet+de+la+technologie;Créateur+de+JuriCongo" alt="Animation de texte">
+</a>
 
-Mukuna Tech est une organisation dédiée à la création de solutions technologiques innovantes pour relever les défis spécifiques du continent africain, en commençant par le secteur juridique en République Démocratique du Congo. Notre mission est de développer des outils qui apportent efficacité, transparence et agilité aux professionnels du droit.
+</div>
+
+Mukuna Tech est une organisation dédiée à la création de solutions technologiques innovantes pour relever les défis spécifiques du continent africain. Notre mission est de développer des outils qui apportent **efficacité**, **transparence** et **agilité** aux professionnels du droit.
+
+---
+
+### 💻 Notre Stack Technologique
+
+<div align="center">
+  <a href="https://flutter.dev/">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  </a>
+  &nbsp;
+  <a href="https://dart.dev/">
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+  </a>
+  &nbsp;
+  <a href="https://www.java.com/">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  </a>
+  &nbsp;
+  <a href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  </a>
+  &nbsp;
+  <a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/Docker-4169E1?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  </a>
+</div>
 
 ---
 
 ## 🚀 Notre Projet Phare : JuriCongo
 
-**JuriCongo** est notre première initiative : une application mobile tout-en-un conçue pour devenir l'assistant numérique indispensable des avocats. De la gestion des dossiers à la centralisation des documents, JuriCongo vise à transformer le quotidien des praticiens du droit.
-
-
+**JuriCongo** est notre première initiative : une application mobile tout-en-un conçue pour devenir l'assistant numérique indispensable des avocats en RDC. De la gestion des dossiers à la centralisation des documents, JuriCongo vise à transformer le quotidien des praticiens du droit.
 
 <p align="center">
   <a href="https://mukunatech.com/">
